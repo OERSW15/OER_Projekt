@@ -1,7 +1,9 @@
 # Materialsammlung Research Methods
 
-In dieser Online-Lernumgebung werden zukünftig Stück für Stück Lernressourcen der Veranstaltung *Research Methods* bereitgestellt.
+In dieser Online-Lernumgebung werden Stück für Stück Lernressourcen der Veranstaltung *Research Methods* des Instituts für Sportwissenschaft an der Europa-Universität Flensburg bereitgestellt.
 Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen. 
+
+> Die Lernumgebung unterliegt der CC BY-ND 4.0, d. h. Materialien dürfen unter Namensnennung unverändert geteilt werden, eine Bearbeitung der Materialien ist nicht erlaubt.
 
 ## Tutorials für JASP
 
