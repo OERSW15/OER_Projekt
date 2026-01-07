@@ -38,8 +38,7 @@ Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen.
 
 @cite{patzelt2013}
 
-> Sportwissenschaft 
-
+> Sportwissenschaft ist... 
 
 
 ## Bewegungen analysieren
