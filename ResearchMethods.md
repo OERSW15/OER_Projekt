@@ -30,6 +30,8 @@ Auf den folgenden Unterkapiteln finden Sie Tutorials, wie das Statistikprogramm 
 ### 7. Unabhängiger t-Test (+ abhängiger t-Test)
 !?[Allgemeine Einführung in JASP](https://youtu.be/Fg-V_zSgGv0)
 
+Test
+
 
 ### Impressum
 Diese Lernumgebung wird bereitgestellt und bearbeitet vom Kollegium des Institus für Sportwissenschaft an der Europa-Universiät Flensburg. Hinweise und Rückfragen gehen an <br>
