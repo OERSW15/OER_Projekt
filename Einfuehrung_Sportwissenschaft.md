@@ -34,6 +34,14 @@ Klicken Sie auf die Unterkapitel links um die Materialien aufzurufen.
 
 ## Begriffe der Sportwissenschaft
 
+> „Wissenschaft ist jenes menschliche Handeln, das auf die Herstellung solcher Aussagen abzielt, die jenen Aussagen an empirischem und logischem Wahrheitsgehalt überlegen sind, welche schon mittels der Fähigkeiten des 'gesunden Menschenverstandes' formuliert werden können." 
+
+@cite{patzelt2013}
+
+> Sportwissenschaft 
+
+
+
 ## Bewegungen analysieren
 
 ### Biomechanische Prinzipien
