@@ -94,6 +94,20 @@ What are your favorite colors?
 
 [↗ Video auf X öffnen](https://x.com/i/status/1290472128723087361)
 
+### Zitation
+
+Die Sportwissenschaft untersucht Sport und Bewegung aus
+interdisziplinärer Perspektive @cite{memorsport2017}.
+
+Patzelt definiert Wissenschaft als zielgerichtetes Handeln @cite{patzelt2013}.
+
+@@bibliography
+{
+  "bibtex": "literatur.bib",
+  "style": "apa"
+}
+@@
+
 
 ## Impressum
 Diese Lernumgebung wird bereitgestellt und bearbeitet vom Kollegium des Institus für Sportwissenschaft an der Europa-Universiät Flensburg. Hinweise und Rückfragen gehen an <br>
